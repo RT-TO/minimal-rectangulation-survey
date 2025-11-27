@@ -12,7 +12,8 @@ This repository contains the survey paper and related materials.
 ## Paper
 
 The latest version of the paper:
-➡️ [`A Survey of Minimal Rectangulations of Orthogonal Polygons with Holes.pdf`](minimal-rectangulation-survey/paper/A Survey of Minimal Rectangulations of Orthogonal Polygons with Holes.pdf)
+
+[paper/A Survey of Minimal Rectangulations of Orthogonal Polygons with Holes.pdf](minimal-rectangulation-survey/paper/A Survey of Minimal Rectangulations of Orthogonal Polygons with Holes.pdf)
 
 ## Citation
 
